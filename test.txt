@@ -1,8 +1,8 @@
 //testing for a certain project
 more stuff
-  123something='87asd87sdf87sdf98sd7f8sfglsdfkjhsdf';
+  123something='put_something_here';
 ok
 more words
 ignore this
-  123something_else='asdlkjasdlkaslkd';
+  123something_else='put_something_else_here';
 whatever
